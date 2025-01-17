@@ -1,0 +1,1 @@
+# ESPHome_esp8266_max17043_window_sensor
